@@ -1,5 +1,11 @@
 <script setup>
+<<<<<<< HEAD
 import JSON from './components/JSON.vue'
+=======
+import HelloWorld from './components/HelloWorld.vue'
+import TheWelcome from './components/TheWelcome.vue'
+import MyName from './components/MyName.vue'
+>>>>>>> 3aa3ab66b22dcf8b7db3bb14ea8ca5d9d2074078
 </script>
 
 <template>
@@ -12,7 +18,12 @@ import JSON from './components/JSON.vue'
   </header>
 
   <main>
+<<<<<<< HEAD
     <JSON />
+=======
+    <TheWelcome />
+    <MyName />
+>>>>>>> 3aa3ab66b22dcf8b7db3bb14ea8ca5d9d2074078
   </main>
 </template>
 

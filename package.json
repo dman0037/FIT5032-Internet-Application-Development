@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "dmandyachaluvaiah-library",
+=======
+  "name": "fit5032-week1",
+>>>>>>> 3aa3ab66b22dcf8b7db3bb14ea8ca5d9d2074078
   "version": "0.0.0",
   "private": true,
   "type": "module",
